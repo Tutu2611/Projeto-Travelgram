@@ -45,3 +45,9 @@ a:hover {
   background-color: var(--surface-color);
 }
 
+@media (width >= 48rem) {
+  .container {
+    padding-inline: 1.25rem;
+  }
+}
+
